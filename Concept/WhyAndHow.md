@@ -36,3 +36,15 @@ B.
 C. 
 - A lot of problems we work on though are really complex than 1/2 Cls
 - They are more complext than whether or not I put this "if statement" here or there and this is where we start getting into writing documents that describe our decision making , describe the tradeoffs that we are making and why we are making it
+- In these cases we introduce the humble one pager
+
+## One Pager 
+- One pager is a place to capture the technical decision making that covers may vbe 2 weeks for a single engineer
+- When you have to send Cls, may be 10 or 15 and tbose Cls are going to happen over the course of a week and a half .
+- You need your reviewer to understand your direction when you send that first Cl so that they evaluate if its moving in the right place
+- For these smaller projects - one pager are typically sufficient when things get larger we end up writing full design docs
+
+## Full Design Docs
+- This doc forces us to think about all the long term implications before we embark on a month and a half of coding work
+-  Are we makign right trade offs
+-  Its better to figure these things out when we are just editing the google doc then it is be 15 CLs into the implemnetations and realize "we totally missed this consideratioon that a reviewer would have caught but because they didn't have the context they couldn't and so we put that in the design doc 
