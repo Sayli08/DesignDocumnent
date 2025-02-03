@@ -1,5 +1,7 @@
 ## Main Goals of Writing Design Documents
-
+a. Techincal
+b. Organizational
+c. Buy In
 
 - Its Usually about answering questions
 - Those Questions could be technical.
@@ -15,3 +17,4 @@
 - When it comes to convincing all the relevant stakeholders that your way of doing a project is the right way probably you are writing the design doc or technical writing of some form to convince all of those stake holders
 
 ## Right Tool
+
