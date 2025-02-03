@@ -61,4 +61,5 @@ C.
 - You have a vision - that mabe we should start charging users to reauthenticate and you need t get all ogf the leads on the RO team onboard.
 - You need to get some ceos onboard
 - so what are you going to do - you are going to write a one pager that says - Look at how much revenue we could generate for  Google - if we chanrge 2 scents to reauthenticate everytime you reauthenticate"
+- Your 1 pager won't get approve but you would spend a lot less time then if you spent , then if you designed  the whole thing , wrote the whole design dcoument and then sent that for review and said "Hey I ahd this idea and here is exactlybhow we will implement it 
   
