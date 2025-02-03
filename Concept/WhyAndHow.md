@@ -47,4 +47,6 @@ C.
 ## Full Design Docs
 - This doc forces us to think about all the long term implications before we embark on a month and a half of coding work
 -  Are we makign right trade offs
--  Its better to figure these things out when we are just editing the google doc then it is be 15 CLs into the implemnetations and realize "we totally missed this consideratioon that a reviewer would have caught but because they didn't have the context they couldn't and so we put that in the design doc 
+-  Its better to figure these things out when we are just editing the google doc then it is be 15 CLs into the implemnetations and realize "we totally missed this consideratioon that a reviewer would have caught but because they didn't have the context they couldn't and so we put that in the design doc
+- On even bigger scale we mhave projects that might require a one-pager and design docs or even multiple design docs. These are projects where maybe we are not sure what the overall right approach is.
+- Should we build XXX using selfie or IP to chose an arbitary example. Then you would write one pager to say - I think we should do it foo or  I think we should do it bar adn then multiple design docs to cover all of the many different ysyems we need to change and the implications of those changes to those systems 
