@@ -30,4 +30,6 @@ B.
 - You can say go look at this Bug that explains why I need to make this specific change to XX and how that relates to YY platform change  I am making in the linked CL
 - And frequently thats enough for the changes that may be couple of Cls
 - May be they are entirely uncontroversial
-- May be 
+- May be they are folloewing a pattern that was just done with somethinbg very similar
+- You again avoid generating artifact that no one reads and you spend bunch of time really making a nice design doc on
+  
