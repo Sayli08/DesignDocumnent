@@ -63,3 +63,14 @@ C.
 - so what are you going to do - you are going to write a one pager that says - Look at how much revenue we could generate for  Google - if we chanrge 2 scents to reauthenticate everytime you reauthenticate"
 - Your 1 pager won't get approve but you would spend a lot less time then if you spent , then if you designed  the whole thing , wrote the whole design dcoument and then sent that for review and said "Hey I ahd this idea and here is exactlybhow we will implement it. Well at the one page stage we can catch that may be there is a little bit of incentove misalignment between XXX's broader goals in this project 
   
+## Good One Pager 
+- A good one pager has some of these characteristics
+- Its explicit and succinct about the objective its trying to accomplish. Why are we changing challenge selection to do X instead of Y. Its because we are trying to achieve a broader goal.
+- Its because we are trying to put everything in terms of these goals we are trying to accomplish and how the technical decisions and tradeoff we are making  help us accomplish those goals.
+- Sometimes its helpful to explress that in the forms of requirements like "XX users can reauthenticate or SSO users are not blocked when they try to access sensitive actions protected by reauth .
+- Other times you are doing more abstract point and requirement are necessary in one pagers
+- One pager should concisely outline the solution. That's typically depends on the project. This can be like an implementation plan. It can be we are going to change the common smart reauth producermodule to do AB and Zand we are going to change credential exchange to do Foo and bar and sometimes that can be int he form of actual codesnippets more frequently its more conceptual that we will make credentia exchange take RAPT as input and generate RARt as an output rather than we are going to change these 3 files in these specific helper methods.
+- Sometimes those code references are useful but ususlaly they are  superflouent
+- A good pager also thinks what actual success means. And this is again tied to havin a gaol and sticking to it .
+- 
+- 
