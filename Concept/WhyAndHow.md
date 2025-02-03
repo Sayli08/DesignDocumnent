@@ -49,4 +49,16 @@ C.
 -  Are we makign right trade offs
 -  Its better to figure these things out when we are just editing the google doc then it is be 15 CLs into the implemnetations and realize "we totally missed this consideratioon that a reviewer would have caught but because they didn't have the context they couldn't and so we put that in the design doc
 - On even bigger scale we mhave projects that might require a one-pager and design docs or even multiple design docs. These are projects where maybe we are not sure what the overall right approach is.
-- Should we build XXX using selfie or IP to chose an arbitary example. Then you would write one pager to say - I think we should do it foo or  I think we should do it bar adn then multiple design docs to cover all of the many different ysyems we need to change and the implications of those changes to those systems 
+- Should we build XXX using selfie or IP to chose an arbitary example. Then you would write one pager to say - I think we should do it foo or  I think we should do it bar adn then multiple design docs to cover all of the many different ysyems we need to change and the implications of those changes to those systems
+
+
+## Process
+- I have this problem , I recogixe that its too large to just send cls for and I want to figure out type of design I should write for it
+- The first thing , the design process is going to tell you to think about is whether or not you need a One Pager
+- One Pagers are perfect when you have a small project and an actual thing that you are going to implement, you are going to rollout and its only going to take 1/2/3 weeks
+- It not always worth taking on all of the overheard of writing a full design for these smaller changes but its also mote worj tha maybe you can explain the contexy for in that first CL you send
+- Its also useful for when you have an idea for a project that requires high level of allignment
+- You have a vision - that mabe we should start charging users to reauthenticate and you need t get all ogf the leads on the RO team onboard.
+- You need to get some ceos onboard
+- so what are you going to do - you are going to write a one pager that says - Look at how much revenue we could generate for  Google - if we chanrge 2 scents to reauthenticate everytime you reauthenticate"
+  
