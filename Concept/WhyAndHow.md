@@ -34,4 +34,5 @@ B.
 - You again avoid generating artifact that no one reads and you spend bunch of time really making a nice design doc on
   
 C. 
-- A lot of problems we work on though are really complex than 1/2 Cls 
+- A lot of problems we work on though are really complex than 1/2 Cls
+- They are more complext than whether or not I put this "if statement" here or there and this is where we start getting into writing documents that describe our decision making , describe the tradeoffs that we are making and why we are making it
