@@ -71,6 +71,7 @@ C.
 - Other times you are doing more abstract point and requirement are necessary in one pagers
 - One pager should concisely outline the solution. That's typically depends on the project. This can be like an implementation plan. It can be we are going to change the common smart reauth producermodule to do AB and Zand we are going to change credential exchange to do Foo and bar and sometimes that can be int he form of actual codesnippets more frequently its more conceptual that we will make credentia exchange take RAPT as input and generate RARt as an output rather than we are going to change these 3 files in these specific helper methods.
 - Sometimes those code references are useful but ususlaly they are  superflouent
-- A good pager also thinks what actual success means. And this is again tied to havin a gaol and sticking to it .
-- 
-- 
+- A good pager also thinks what actual success means. And this is again tied to having a goal and sticking to it .
+- If you don't know what it means to be successful then we can't really evaluate whether or not this endeavor you wrote the one pager for and then spent 2 weeks acoing actually did the thing we wanted to do
+- So we should think about what success means and how we can concretely and actually measure it.
+- You would need constraint list of reviewers 
