@@ -12,3 +12,6 @@
 - Design docs are typically where these system delineations are designed and all of these teams buy in
 - Last one that happens more frequently as you progress in your career are even more buy in type of questions
 - Is this project worth doing ? Is it worh doing this way ? What about the other ways we could have accomplished the same goal
+- When it comes to convincing all the relevant stakeholders that your way of doing a project is the right way probably you are writing the design doc or technical writing of some form to convince all of those stake holders
+
+## Right Tool
