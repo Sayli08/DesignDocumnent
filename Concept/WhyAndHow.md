@@ -33,3 +33,5 @@ B.
 - May be they are folloewing a pattern that was just done with somethinbg very similar
 - You again avoid generating artifact that no one reads and you spend bunch of time really making a nice design doc on
   
+C. 
+- A lot of problems we work on though are really complex than 1/2 Cls 
